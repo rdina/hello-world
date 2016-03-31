@@ -1,5 +1,5 @@
 package test_gh;
 
 public interface MyInterface {
-	public static final int x = 9;
+	public static final int x = 10;
 }
